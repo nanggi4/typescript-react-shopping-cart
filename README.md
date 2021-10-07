@@ -1,4 +1,4 @@
-## typescript-react-shopping-cart
+# typescript-react-shopping-cart
 
 ### npm module
 
@@ -12,4 +12,3 @@
 #### `npm install`
 
 #### `npm start`
-# typescript-react-shopping-cart
